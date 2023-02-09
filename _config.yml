@@ -103,4 +103,4 @@ theme: hexo-theme-flexblock
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/yinjiajun223/own-blog.git
+  repo: https://github.com/yinjiajun223/yinjiajun223.github.io.git
